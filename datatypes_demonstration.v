@@ -1,3 +1,5 @@
+visit -> https://edaplayground.com/x/Tzrz
+
 `timescale 1ns / 1ps   // time unit / time precision 
 // ns is base unit of time for the simulation
 // ps is the smallest time step 
